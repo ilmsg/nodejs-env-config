@@ -1,0 +1,14 @@
+{
+    "development": {
+        "env": "development",
+        "appId": "1"
+    },
+    "production": {
+        "env": "production",
+        "appId": "2"
+    },
+    "test": {
+        "env": "test",
+        "appId": "3"
+    }
+}
